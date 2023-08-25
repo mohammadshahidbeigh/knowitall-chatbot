@@ -12,7 +12,7 @@ This project demonstrates the integration of Firebase Realtime Database and Open
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
-- [License](#license)
+
 
 ## Prerequisites
 
