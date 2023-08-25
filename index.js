@@ -6,12 +6,12 @@ import { process } from "./env";
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY, // This is also the default, can be omitted
-  dangerouslyAllowBrowser: true,
+  dangerouslyAllowBrowser: true, // For Frontend Usage
 });
 
 const appSettings = {
   databaseURL:
-    "https://knowitall-openai-2fb8a-default-rtdb.asia-southeast1.firebasedatabase.app/",
+      "Your Firebase Realtime Database URL", //  Your Firebase Realtime Database URL
 };
 
 const app = initializeApp(appSettings);
