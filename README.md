@@ -46,6 +46,16 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
    ```env
    OPENAI_API_KEY=your_openai_api_key_here
+2. Update the Firebase database URL:
+
+In the appSettings object within the index.js file, replace 'your-firebase-database-url' with your Firebase project's database URL
+
+3. Run the application:
+    ```npm start
+4. Open your web browser and navigate to http://yourlocalhost:Port to interact with the chatbot.
+
+   
+
 ## Configuration
 To configure the chatbot, consider the following:
 
