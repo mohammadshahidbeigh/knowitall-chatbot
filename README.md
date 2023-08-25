@@ -49,6 +49,8 @@ Head over to https://vitejs.dev/ to learn more about using vite
 To configure the chatbot, consider the following:
 
 openai: The integration with OpenAI is established using the openai npm package. The API key is retrieved from the environment variables.
+
+
 Firebase: The Firebase Realtime Database is used to store and manage conversation data between the user and the chatbot.
 
 Happy Coding!
