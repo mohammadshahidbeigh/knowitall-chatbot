@@ -50,8 +50,11 @@ Head over to https://vitejs.dev/ to learn more about using vite
 
 In the appSettings object within the index.js file, replace 'your-firebase-database-url' with your Firebase project's database URL
 
-3. Run the application: ```npm start
-4. Open your web browser and navigate to http://yourlocalhost:Port to interact with the chatbot.
+3. Run the application:
+4.  ```npm start
+      npm start
+   
+5. Open your web browser and navigate to http://yourlocalhost:Port to interact with the chatbot.
 
    
 
