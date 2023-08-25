@@ -1,4 +1,4 @@
-# KnowItAll - A Chatbot with Firebase and OpenAI Integration
+# KnowItAll - ##A Chatbot with Firebase and OpenAI Integration
 
 ![Screenshot_20230825_192122](https://github.com/mohammadshahidbeigh/knowitall-ChatBot/assets/85876937/0b1fee88-da6a-423e-9c7c-a4311d921f02)
 
@@ -36,5 +36,18 @@ $ npm start
 ```
 
 Head over to https://vitejs.dev/ to learn more about using vite
+## Usage
+
+1. Set up your environment variables:
+   
+   Create a `.env` file in the root directory of the project and add your OpenAI API key:
+
+   ```env
+   OPENAI_API_KEY=your_openai_api_key_here
+## Configuration
+To configure the chatbot, consider the following:
+
+openai: The integration with OpenAI is established using the openai npm package. The API key is retrieved from the environment variables.
+Firebase: The Firebase Realtime Database is used to store and manage conversation data between the user and the chatbot.
 
 Happy Coding!
