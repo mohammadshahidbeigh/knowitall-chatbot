@@ -61,7 +61,7 @@ In the appSettings object within the index.js file, replace 'your-firebase-datab
 ## Configuration
 To configure the chatbot, consider the following:
 
-Openai: The integration with OpenAI is established using the openai npm package. The API key is retrieved from the environment variables.
+openai: The integration with OpenAI is established using the openai npm package. The API key is retrieved from the environment variables.
 
 
 Firebase: The Firebase Realtime Database is used to store and manage conversation data between the user and the chatbot.
