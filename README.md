@@ -7,7 +7,7 @@
 
 KnowItAll ChatBot is a web application that seamlessly integrates Firebase Realtime Database with OpenAI's GPT-3.5 Turbo model. Through this integration, the application offers an interactive chatbot experience. The chatbot comprehends user inputs and provides human-like responses, creating a dynamic and engaging conversational interaction. This project demonstrates the integration of Firebase Realtime Database and OpenAI's GPT-3.5 Turbo model to create an interactive chatbot interface. The chatbot responds to user inputs using natural language processing and generates human-like responses.
 
-## Table of Contentss
+## Table of Contents
 
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
