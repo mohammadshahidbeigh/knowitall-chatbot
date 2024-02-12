@@ -1,4 +1,4 @@
-# KnowItAll - ChatBott
+# KnowItAll - ChatBot
 ## A Chatbot with Firebase and OpenAI Integration
 
 ![Screenshot_20230825_192122](https://github.com/mohammadshahidbeigh/knowitall-ChatBot/assets/85876937/0b1fee88-da6a-423e-9c7c-a4311d921f02)
