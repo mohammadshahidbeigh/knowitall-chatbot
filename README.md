@@ -1,4 +1,4 @@
-# KnowItAll - ChatBott
+# KnowItAll - ChatBot
 
 ## A Chatbot with Firebase and OpenAI Integration
 
